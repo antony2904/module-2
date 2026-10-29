@@ -1,0 +1,51 @@
+incident_id,date,organization,attack_type,severity,data_loss_gb,financial_impact_usd,region,detected_by,response_time_hours,resolved
+INC1000,2023-04-13,CyberGrid,Ransomware,Medium,3.36,55657.21,Africa,SOC Analyst,23.1,False
+INC1001,2024-03-11,DataSecure,Phishing,Critical,21.22,71185.04,Europe,User Report,70.5,True
+INC1002,2023-09-28,BitGuard,Ransomware,Medium,1.39,54370.83,Europe,SOC Analyst,13.4,True
+INC1003,2023-04-17,CyberGrid,Insider Threat,Medium,5.58,19578.63,Asia,IDS,2.2,True
+INC1004,2023-03-13,BitGuard,Malware,High,7.17,76233.68,Europe,SOC Analyst,55.2,True
+INC1005,2023-01-21,SecureWare,Brute Force,Medium,1.36,83127.64,North America,IDS,58.3,True
+INC1006,2024-09-06,DataSecure,Malware,Low,6.51,68362.53,Africa,SOC Analyst,25.6,True
+INC1007,2023-05-02,CloudFort,Phishing,Medium,2.29,26137.57,South America,User Report,34.0,True
+INC1008,2024-04-11,TechNova,DDoS,Low,5.0,31220.51,Europe,User Report,47.1,True
+INC1009,2023-08-03,InfoTrust,Brute Force,Critical,5.02,21739.3,North America,IDS,4.4,False
+INC1010,2023-11-27,InfoShield,Phishing,High,3.84,69249.43,South America,Automated System,68.4,True
+INC1011,2024-04-03,CyberTech,DDoS,High,0.47,81709.74,Africa,IDS,64.0,True
+INC1012,2023-03-29,CloudFort,Malware,High,9.02,60612.16,South America,IDS,19.5,True
+INC1013,2024-01-08,DataSecure,Phishing,High,1.93,73513.39,North America,SOC Analyst,2.1,True
+INC1014,2023-04-10,InfoTrust,Brute Force,Low,1.03,28308.97,South America,SOC Analyst,67.3,True
+INC1015,2024-10-25,CloudFort,Brute Force,High,0.21,53646.55,Asia,IDS,36.6,True
+INC1016,2023-05-11,DataSecure,SQL Injection,Medium,4.47,15753.22,South America,User Report,39.3,True
+INC1017,2024-10-23,NetDefender,Insider Threat,High,5.66,30705.48,Europe,SOC Analyst,49.6,True
+INC1018,2023-11-05,NetDefender,Ransomware,High,0.08,71966.84,Europe,Automated System,44.7,True
+INC1019,2023-12-10,BitGuard,DDoS,Medium,3.59,44010.14,Asia,SOC Analyst,68.0,True
+INC1020,2024-05-06,CloudFort,SQL Injection,Low,1.28,80234.55,North America,SOC Analyst,68.0,True
+INC1021,2024-02-18,NetDefender,Ransomware,Medium,5.18,63449.0,Europe,Automated System,62.6,True
+INC1022,2024-01-21,DataSecure,Ransomware,Medium,0.96,118360.55,Africa,IDS,46.2,False
+INC1023,2023-07-11,BitGuard,Phishing,High,5.87,52344.14,Europe,Automated System,57.9,False
+INC1024,2023-10-04,DataSecure,Ransomware,High,2.44,14839.87,Europe,IDS,49.1,True
+INC1025,2023-06-10,BitGuard,Insider Threat,Low,13.8,49136.76,North America,IDS,41.7,False
+INC1026,2024-04-04,CloudFort,Brute Force,Medium,0.74,25924.61,South America,IDS,10.1,True
+INC1027,2023-11-10,InfoTrust,SQL Injection,Medium,2.09,74429.5,Europe,Automated System,58.6,True
+INC1028,2023-01-22,TechNova,Ransomware,Medium,0.6,51049.5,Asia,IDS,59.3,True
+INC1029,2023-09-10,CyberGrid,Phishing,Low,12.93,46568.2,South America,User Report,45.4,True
+INC1030,2024-07-14,InfoTrust,Insider Threat,Medium,10.49,46896.69,Africa,Automated System,59.3,True
+INC1031,2024-04-19,SecureWare,Malware,Critical,1.49,68508.52,North America,User Report,47.3,True
+INC1032,2023-02-28,DataSecure,Brute Force,Medium,5.39,38688.44,Africa,IDS,15.7,True
+INC1033,2024-05-25,SecureWare,Brute Force,Medium,8.5,69426.24,South America,SOC Analyst,20.5,True
+INC1034,2024-11-12,InfoTrust,SQL Injection,High,4.05,76139.28,South America,IDS,16.2,False
+INC1035,2024-04-20,BitGuard,Brute Force,Medium,3.77,41446.46,South America,User Report,27.8,True
+INC1036,2024-11-30,CyberGrid,Ransomware,Critical,1.38,26848.83,Africa,User Report,3.8,True
+INC1037,2023-07-09,CyberGrid,Phishing,Critical,0.49,37175.87,South America,Automated System,44.9,False
+INC1038,2024-11-17,CyberTech,Brute Force,Medium,11.38,67752.73,Africa,SOC Analyst,24.9,False
+INC1039,2024-07-16,CyberGrid,Brute Force,Medium,11.53,52311.97,South America,Automated System,47.6,False
+INC1040,2024-07-20,TechNova,Malware,Medium,5.01,65751.87,Asia,User Report,28.4,True
+INC1041,2023-09-01,CyberGrid,Malware,Medium,2.07,94073.44,South America,IDS,49.4,True
+INC1042,2024-05-19,InfoTrust,DDoS,Low,2.15,55773.84,Africa,SOC Analyst,25.2,True
+INC1043,2023-05-11,CyberTech,Insider Threat,High,6.47,29776.58,Europe,IDS,19.5,True
+INC1044,2024-04-29,InfoTrust,Ransomware,Medium,11.37,76435.59,South America,IDS,36.2,False
+INC1045,2024-10-08,InfoTrust,Brute Force,Low,10.91,51284.02,Europe,SOC Analyst,50.2,True
+INC1046,2023-01-21,InfoShield,Brute Force,Medium,7.57,71811.18,Asia,Automated System,25.7,False
+INC1047,2023-06-16,CyberTech,Phishing,Critical,5.14,76654.96,North America,IDS,67.5,False
+INC1048,2023-10-01,InfoTrust,DDoS,Medium,0.44,26024.8,Asia,User Report,3.8,False
+INC1049,2024-01-23,InfoShield,Insider Threat,Low,0.88,84550.12,South America,IDS,30.7,True
